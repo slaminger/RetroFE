@@ -52,7 +52,7 @@ You may need to export the libs with $LIBRARY_PATH and or supply the include fol
 
 Download the source code:
 
-	git clone https://github.com/phulshof/RetroFE.git
+	git clone https://github.com/slaminger/RetroFE
 
 Generate your gcc make files:
 
@@ -79,7 +79,7 @@ Install necessary dependencies:
 ## Download and compile the source code ##
 Download the source code:
 
-	git clone https://github.com/phulshof/RetroFE.git
+	git clone https://github.com/slaminger/RetroFE
 
 Generate your gcc make files:
 
@@ -113,7 +113,7 @@ Copy your live RetroFE system to any folder of your choosing:
 
 Download the source code
 
-	git clone https://github.com/phulshof/RetroFE.git
+	git clone https://github.com/slaminger/RetroFE
 
 Setup Environment (to setup necessary variables and paths to compile in visual studio)
 
